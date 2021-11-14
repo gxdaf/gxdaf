@@ -3,7 +3,7 @@ I'm Gabriela and am currently getting a bachelor's degree in Information Systems
 
 ### Languages and Tools
 
-[!Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username={gxdaf})
+(https://github-readme-stats.vercel.app/api/top-langs/?username={gxdaf})
 </code>
 <code><img height=20 src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'></code>
 <code><img height=20 src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'></code>
